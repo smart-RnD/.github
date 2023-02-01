@@ -21,9 +21,8 @@
 </p>
 
 <p align="center">
- ![giphy](https://user-images.githubusercontent.com/108712079/215942674-6008ada5-e243-43b1-9295-b21fdad4b613.gif)
+  <img style="width: 550px" src="https://user-images.githubusercontent.com/108712079/215942674-6008ada5-e243-43b1-9295-b21fdad4b613.gif" />
 </p>
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -62,7 +61,7 @@ project_experience:
     "etc...."
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["Docker, Kubernetes and Amazon Web Services"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Lato-Lato", "Code Hero"]
 ```

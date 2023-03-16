@@ -54,15 +54,13 @@ project_experience:
   [
     "Pertamina Monitoring Project",
     "Pertamina Checklist - Mobil Tangki BBM",
-    "Sungai Amazon - Ecommerce",
-    "Garap - Sistem Ride Hiling",
+    "BOS - Sistem Ride Hiling",
     "Privid - Sistem Pembelajaran On time",
     "gotime - Absensi Employee",
     "etc...."
   ]
   
-currently_learning: ["Docker, Kubernetes and Amazon Web Services"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+currently_learning: ["Kubernetes & Amazon Web Services"]
 hobbies: ["Gaming", "Lato-Lato", "Code Hero"]
 ```
   

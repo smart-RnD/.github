@@ -29,6 +29,8 @@
 
 ```yaml
 name: Smart RnD Team
+privilage: Smartindev
+group: Tukang Apps Indonesia
 located_in: Semarang, Indonesia
 current_job: Software Development
 education:
